@@ -2,9 +2,11 @@
 
 ### 
 
-Меня зовут Андрей, я Java разработчик.
+Меня зовут Андрей, я Java разработчик.   
 
-В данный момент рассматриваю предложения о работе.
+В данный момент рассматриваю предложения о работе.  
+Telegram: https://t.me/A_boyarov  
+LinkedIn: https://www.linkedin.com/in/andrey-boyarov-775375238/
 
 Стек технологий: Java Core, Spring Boot, Docker,
 JUnit, Mockito, Apache Maven, Git, JPA(Hibernate), SQL.
