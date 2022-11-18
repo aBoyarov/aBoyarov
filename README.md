@@ -18,4 +18,4 @@ Rest API, Spring Boot, JPA(Hibernate), Lombok, Swagger, Docker, PostgreSQL
 Rest API, Spring Boot, JPA(Hibernate), Lombok, Docker, PostgreSQL, MockMVC
 3. Filmorate(https://github.com/aBoyarov/java-filmorate)      
 Бэкенд прилежения социальной сети для киноманов  
-Rest API, Spring Boot, Овис Еуьздфеу, Lombok, H2
+Rest API, Spring Boot, Jdbc Template, Lombok, H2
