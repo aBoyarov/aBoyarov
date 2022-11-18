@@ -9,7 +9,7 @@ Telegram: https://t.me/A_boyarov
 LinkedIn: https://www.linkedin.com/in/andrey-boyarov-775375238/
 
 Стек технологий: Java Core, Spring Boot, Docker,
-JUnit, Mockito, Apache Maven, Git, JPA(Hibernate), SQL.
+JUnit, Mockito, Apache Maven, Git, JPA(Hibernate), SQL, Swagger.
 
 Реализованные проекты:
 1. Explore With Me (https://github.com/aBoyarov/java-explore-with-me)    
